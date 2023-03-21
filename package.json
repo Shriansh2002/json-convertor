@@ -1,0 +1,22 @@
+{
+	"name": "json-convertor",
+	"version": "1.0.0",
+	"description": "This package converts json to csv and xml",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"json",
+		"csv",
+		"xml",
+		"convert",
+		"parse"
+	],
+	"author": "Shriansh Agarwal",
+	"license": "ISC",
+	"devDependencies": {
+		"json2csv": "^6.0.0-alpha.2",
+		"xml-js": "^1.6.11"
+	}
+}
